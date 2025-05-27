@@ -23,7 +23,7 @@ This repository contains a **Personal Portfolio Website** built with HTML, CSS, 
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/portfolio-docker.git
+   git clone https://github.com/Hinakumari1/portfolio-docker.git
    cd portfolio-docker
    
 2. Build the Docker image:
